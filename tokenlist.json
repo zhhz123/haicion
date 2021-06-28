@@ -1,0 +1,37 @@
+{
+  "name": "main",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": ["main", "defi"],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 17843,
+      "address": "0x020a23F917331cb1bDf199056DAF0bb829f1Aa7b",
+      "name": "A",
+      "symbol": "A",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 17843,
+      "address": "0x965c2E8948E8d0387855fA80A8e75697b29118a6",
+      "name": "B",
+      "symbol": "B",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+    },
+    {
+      "chainId": 17843,
+      "address": "0x965c2E8948E8d0387855fA80A8e75697b29118a6",
+      "name": "C",
+      "symbol": "C",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
